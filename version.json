@@ -1,0 +1,9 @@
+{
+  "versionCode": 1,
+  "versionName": "1.0.0",
+  "minSupportedVersionCode": 1,
+  "forceUpdate": false,
+  "title": "New Update Available! 🚀",
+  "releaseNotes": "• Redesigned Approvals into 6 individual cards\n• Fixed C-Off dropdown and request submission\n• Added in-app update detection\n• Performance optimizations and bug fixes",
+  "downloadUrl": "https://github.com/Shrikanth99/samay-releases/releases/latest"
+}
