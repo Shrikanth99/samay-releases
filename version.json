@@ -1,9 +1,9 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1.0",
+  "versionCode": 3,
+  "versionName": "1.2.0",
   "minSupportedVersionCode": 1,
   "forceUpdate": false,
   "title": "New Update Available! 🚀",
-  "releaseNotes": "• Redesigned Approvals into 6 individual modules\n• Fixed C-Off dropdown and request submission\n• Added in-app auto-update notifications and APK downloader\n• Performance optimizations and bug fixes",
-  "downloadUrl": "https://github.com/Shrikanth99/samay-releases/releases/download/v1.1.0/app-release.apk"
+  "releaseNotes": "• Move Today's Statistics to top of Home Screen\n• In-app front camera for face enrollment\n• Enhanced dark theme UI across the app\n• Performance optimizations and bug fixes",
+  "downloadUrl": "https://github.com/Shrikanth99/samay-releases/releases/download/v1.2.0/app-release.apk"
 }
