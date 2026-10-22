@@ -1,9 +1,9 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2.0",
+  "versionCode": 4,
+  "versionName": "1.2.1",
   "minSupportedVersionCode": 1,
   "forceUpdate": false,
   "title": "New Update Available! 🚀",
-  "releaseNotes": "• Move Today's Statistics to top of Home Screen\n• In-app front camera for face enrollment\n• Enhanced dark theme UI across the app\n• Performance optimizations and bug fixes",
-  "downloadUrl": "https://github.com/Shrikanth99/samay-releases/releases/download/v1.2.0/app-release.apk"
+  "releaseNotes": "• Submit face enrollment for Admin or HR approval\n• Mark attendance with face matching and live-face checks\n• Save punches to the server with location and recent attendance history\n• Prevent duplicate punches with a three-minute interval\n• Preserve mobile submission and capture times",
+  "downloadUrl": "https://github.com/Shrikanth99/samay-releases/releases/download/v1.2.1/app-release.apk"
 }
