@@ -1,9 +1,9 @@
 {
-  "versionCode": 4,
-  "versionName": "1.2.1",
+  "versionCode": 5,
+  "versionName": "1.2.2",
   "minSupportedVersionCode": 1,
   "forceUpdate": false,
   "title": "New Update Available! 🚀",
-  "releaseNotes": "• Submit face enrollment for Admin or HR approval\n• Mark attendance with face matching and live-face checks\n• Save punches to the server with location and recent attendance history\n• Prevent duplicate punches with a three-minute interval\n• Preserve mobile submission and capture times",
-  "downloadUrl": "https://github.com/Shrikanth99/samay-releases/releases/download/v1.2.1/app-release.apk"
+  "releaseNotes": "• Correct first IN and last OUT summaries, including overnight punches\n• Filter attendance history by dates and status with a compact filter card\n• Improve attendance status labels and activity tags\n• Show the employee profile photo and Emp Code\n• Improve Home leave summary labels and card order\n• Include the latest leave and C-Off workspace improvements",
+  "downloadUrl": "https://github.com/Shrikanth99/samay-releases/releases/download/v1.2.2/app-release.apk"
 }
