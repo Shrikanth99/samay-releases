@@ -1,9 +1,9 @@
 {
-  "versionCode": 5,
-  "versionName": "1.2.2",
+  "versionCode": 6,
+  "versionName": "1.2.3",
   "minSupportedVersionCode": 1,
   "forceUpdate": false,
-  "title": "New Update Available! 🚀",
-  "releaseNotes": "• Correct first IN and last OUT summaries, including overnight punches\n• Filter attendance history by dates and status with a compact filter card\n• Improve attendance status labels and activity tags\n• Show the employee profile photo and Emp Code\n• Improve Home leave summary labels and card order\n• Include the latest leave and C-Off workspace improvements",
-  "downloadUrl": "https://github.com/Shrikanth99/samay-releases/releases/download/v1.2.2/app-release.apk"
+  "title": "Samay 1.2.3 is available",
+  "releaseNotes": "• Refreshed light theme with white cards, blue accents and refined typography\n• Compact Today's Statistics with six grouped metrics and smaller text\n• Updated Home, Work, Approvals, Attendance and More screens\n• Smooth tab and press transitions that respect reduced-motion settings\n• Existing attendance, leave and approval workflows preserved",
+  "downloadUrl": "https://github.com/Shrikanth99/samay-releases/releases/download/v1.2.3/app-release.apk"
 }
