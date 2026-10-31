@@ -1,9 +1,9 @@
 {
-  "versionCode": 6,
-  "versionName": "1.2.3",
+  "versionCode": 7,
+  "versionName": "1.2.4",
   "minSupportedVersionCode": 1,
   "forceUpdate": false,
-  "title": "Samay 1.2.3 is available",
-  "releaseNotes": "• Refreshed light theme with white cards, blue accents and refined typography\n• Compact Today's Statistics with six grouped metrics and smaller text\n• Updated Home, Work, Approvals, Attendance and More screens\n• Smooth tab and press transitions that respect reduced-motion settings\n• Existing attendance, leave and approval workflows preserved",
-  "downloadUrl": "https://github.com/Shrikanth99/samay-releases/releases/download/v1.2.3/app-release.apk"
+  "title": "Samay 1.2.4 is available",
+  "releaseNotes": "• Keep open request forms when switching tabs; return to the tab home when browsing\n• Confirm before discarding unsaved request details\n• Request location and camera access in sequence before attendance capture\n• Show all six approval categories in a responsive grid\n• Existing attendance, leave and approval workflows preserved",
+  "downloadUrl": "https://github.com/Shrikanth99/samay-releases/releases/download/v1.2.4/app-release.apk"
 }
