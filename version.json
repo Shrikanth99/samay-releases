@@ -1,9 +1,9 @@
 {
-  "versionCode": 7,
-  "versionName": "1.2.4",
+  "versionCode": 8,
+  "versionName": "1.2.5",
   "minSupportedVersionCode": 1,
   "forceUpdate": false,
-  "title": "Samay 1.2.4 is available",
-  "releaseNotes": "• Keep open request forms when switching tabs; return to the tab home when browsing\n• Confirm before discarding unsaved request details\n• Request location and camera access in sequence before attendance capture\n• Show all six approval categories in a responsive grid\n• Existing attendance, leave and approval workflows preserved",
-  "downloadUrl": "https://github.com/Shrikanth99/samay-releases/releases/download/v1.2.4/app-release.apk"
+  "title": "Samay 1.2.5 is available",
+  "releaseNotes": "• Choose Light or Dark appearance in More; your preference is remembered\n• View Leave and COff My Actions with approval levels and statuses\n• Compact Pending approval cards with clear dates, days and leave balances\n• Clearer request histories with applied dates and half-day details\n• Updated Leave day previews to count both selected half-day endpoints",
+  "downloadUrl": "https://github.com/Shrikanth99/samay-releases/releases/download/v1.2.5/app-release.apk"
 }
