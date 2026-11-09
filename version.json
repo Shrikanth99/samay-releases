@@ -1,9 +1,9 @@
 {
-  "versionCode": 8,
-  "versionName": "1.2.5",
+  "versionCode": 9,
+  "versionName": "1.2.6",
   "minSupportedVersionCode": 1,
   "forceUpdate": false,
-  "title": "Samay 1.2.5 is available",
-  "releaseNotes": "• Choose Light or Dark appearance in More; your preference is remembered\n• View Leave and COff My Actions with approval levels and statuses\n• Compact Pending approval cards with clear dates, days and leave balances\n• Clearer request histories with applied dates and half-day details\n• Updated Leave day previews to count both selected half-day endpoints",
-  "downloadUrl": "https://github.com/Shrikanth99/samay-releases/releases/download/v1.2.5/app-release.apk"
+  "title": "Samay 1.2.6 is available",
+  "releaseNotes": "• Browse full past months in Attendance and the current month through today\n• Improved attendance calendar and status display\n• Updated Samay launcher icon and simplified employee sign-in\n• Improved navigation from dashboard cards to Work screens",
+  "downloadUrl": "https://github.com/Shrikanth99/samay-releases/releases/download/v1.2.6/app-release.apk"
 }
