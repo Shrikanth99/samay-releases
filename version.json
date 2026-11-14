@@ -1,9 +1,9 @@
 {
-  "versionCode": 9,
-  "versionName": "1.2.6",
+  "versionCode": 1,
+  "versionName": "1.0.0",
   "minSupportedVersionCode": 1,
   "forceUpdate": false,
-  "title": "Samay 1.2.6 is available",
-  "releaseNotes": "• Browse full past months in Attendance and the current month through today\n• Improved attendance calendar and status display\n• Updated Samay launcher icon and simplified employee sign-in\n• Improved navigation from dashboard cards to Work screens",
-  "downloadUrl": "https://github.com/Shrikanth99/samay-releases/releases/download/v1.2.6/app-release.apk"
+  "title": "Samay 1.0.0 is available",
+  "releaseNotes": "• Initial production release of Samay ESS\n• Contactless face attendance & GPS geofencing\n• Shift calendar & leave management",
+  "downloadUrl": "https://play.google.com/store/apps/details?id=com.paramount.samay"
 }
